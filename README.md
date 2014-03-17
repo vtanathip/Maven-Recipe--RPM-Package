@@ -1,6 +1,6 @@
 ## Maven-Recipe--RPM-Package ##
 
-Maven Recipe: RPM Package
+Simple Maven package to rpm with [RPM plugin](http://mojo.codehaus.org/rpm-maven-plugin/)
 
 ## Installation ##
 1. Download cygwin [Download link](http://www.cygwin.com/install.html)
